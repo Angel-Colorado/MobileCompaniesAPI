@@ -1,0 +1,2 @@
+﻿Add-Migration -Context MobileCoContext -o Data\MCMigrations Initial
+Update-Database -Context MobileCoContext
